@@ -1,2 +1,4 @@
-# tracker
-center of face/head tracker app
+# FACE-TRACKER APP
+
+## CAPTURING CENTER OF FACE WITH OPENCV'S FACE DETECTOR
+

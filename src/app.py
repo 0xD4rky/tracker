@@ -1,6 +1,7 @@
 from flask import Flask, render_template, Response, stream_with_context
 import json
 import time
+from tracker import FaceTracker
 
 app = Flask(__name__)
 face_tracker = FaceTracker()

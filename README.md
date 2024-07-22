@@ -24,3 +24,16 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ``` git clone https://github.com/0xD4rky/tracker.git```
+
+2. Create a virtual environment (optional but recommended):
+
+```python -m venv venv```
+
+3. Install the required packages:
+
+``` pip install -r requirements.txt```
+
+4. Change your directory to src using ```cd src``` then:
+
+```python app.py```
+
